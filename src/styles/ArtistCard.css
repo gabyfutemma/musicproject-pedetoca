@@ -1,0 +1,68 @@
+.artist-info {
+  margin-bottom: 3vh;
+}
+
+.artist-title {
+  font-size: 2rem;
+  font-weight: 600;
+  color: #000;
+}
+
+.artist-subtitle {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.artist-name {
+  margin-left: 1vw;
+  font-weight: 700;
+}
+
+.artist-genre {
+  margin-left: 1vw;
+  font-weight: 700;
+}
+
+.artist-btn-group {
+  display: flex;
+  justify-content: space-around;
+}
+
+.btn-music {
+  background-color: #222;
+  border-color: #000;
+  font-weight: 500;
+  color: #fff;
+  border-radius: 0px;
+}
+
+.btn-music:hover, .btn-music:active, .btn-music:focus {
+  background-color: #fff;
+  border-color: #000;
+  color: #222;
+  outline-color: #000 !important;
+}
+
+
+.btn-delete {
+  background-color: #882626;
+  border-color: #000;
+  font-weight: 500;
+  color: #fff;
+  border-radius: 0px;
+}
+
+.btn-delete:hover, .btn-music:active, .btn-music:focus {
+  background-color: #fff;
+  border-color: #000;
+  color: #222;
+  outline-color: #000 !important;
+}
+
+.music-list {
+  margin-top: 2vh;
+}
+
+.music-list-item {
+  font-size: 1.5rem;
+}

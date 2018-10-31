@@ -1,0 +1,12 @@
+.artists {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding-left: 5vw;  
+  padding-right: 5vw;
+}
+
+.artists-list {
+  margin-top: 5vh;
+  margin-left: 5vw;
+}

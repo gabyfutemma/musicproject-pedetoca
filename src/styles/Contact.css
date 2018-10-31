@@ -1,0 +1,11 @@
+.contact {
+  width: 100%;
+  display: flex;
+  padding-left: 5vw;  
+  padding-right: 5vw;
+}
+
+.contact-btn-group {
+  display: flex;
+  justify-content: space-around;
+}
